@@ -10,6 +10,7 @@ public class Main {
         System.out.println("Insira o nome do produto: ");
         product.name = sc.next();
 
+
         System.out.println("Insira o preço do produto: ");
         product.price = sc.nextDouble();
 
